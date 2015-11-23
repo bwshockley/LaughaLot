@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laugh a Lot</string>
+    <string name="instructions_header">Instructions:</string>
+    <string name="instructions">Press the smiley face for a hilarious joke.</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_device_id">4D1C3B5A25377E3A3CBD0DBC41A26507</string>
+
+    //GCE URLS
+    <string name="local_gce_url">http://10.0.2.2:8080/_ah/api/</string>
+    <string name="network_gce_url">https://laughs-a-lot.appspot.com/_ah/api/</string>
+</resources>
